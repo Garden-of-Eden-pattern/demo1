@@ -1,0 +1,111 @@
+header {
+
+    background-image: url(OIP.jpg);
+    height:150px;
+    color:yellow;
+
+
+}
+
+.header-logo{
+   
+    float:left;
+    font-size:50px;
+    padding:40px;
+
+}
+
+.header-list{
+
+    float:right;
+    padding: 23px 20px;
+    background-color: palegreen;
+    color:black;
+
+}
+
+.header-list li{
+
+    list-style:none;
+
+}
+.Contents1{
+
+    height:250px;
+
+}
+
+.Contents1 h1{
+
+    border-bottom:1px solid black;
+
+}
+.Contents1 img{
+
+    height:100px;
+    float:left;
+    padding:50px 30px 50px 30px;
+
+    
+
+}
+
+.Contents2{
+
+    height:250px;
+
+}
+
+.Contents2 h1{
+
+    border-bottom:1px solid black;
+
+}
+
+.Contents3{
+
+    height:250px;
+
+}
+
+.Contents3 h1{
+
+    border-bottom:1px solid black;
+
+}
+
+footer{
+
+    height:500px;
+    background-color: pink;
+
+}
+
+.send_form{
+
+    padding:50px;
+
+}
+
+.name input{
+
+    width:300px;
+    height:50px;
+    margin-bottom:30px;
+
+}
+
+.send_contents textarea{
+
+    width:300px;
+    height:100px;
+    margin-bottom:30px;
+
+}
+
+.send_button input{
+
+    width:300px;
+    height:50px;
+
+}
