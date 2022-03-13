@@ -29,24 +29,31 @@ header {
     list-style:none;
 
 }
-.Contents1{
 
-    height:250px;
-
-}
-
-.Contents1 h1{
+.title-logo{
 
     border-bottom:1px solid black;
 
 }
+
+.Content1{
+
+    height:400px;
+
+}
+
 .Contents1 img{
 
     height:100px;
-    float:left;
-    padding:50px 30px 50px 30px;
+    margin:50px 30px 50px 30px;
 
-    
+}
+
+#text1, #text2, #text3{
+
+    display:none;
+    font-size:20px;
+    border-bottom: none;
 
 }
 
