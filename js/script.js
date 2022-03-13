@@ -1,5 +1,5 @@
 $(function(){
 
-    $('#footer-image').fadeOut(2000);
+    $('#footer-image').fadeOut();
 
 })
