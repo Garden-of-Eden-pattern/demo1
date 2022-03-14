@@ -44,14 +44,14 @@ header {
 
 .Contents1 img{
 
-    height:100px;
-    margin:50px 30px 50px 30px;
+    height:150px;
+    margin:50px 30px;
 
 }
 
-#text1, #text2, #text3{
+#text1{
 
-    display:none;
+    opacity:0;
     font-size:20px;
     border-bottom: none;
 

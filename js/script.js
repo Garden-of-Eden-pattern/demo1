@@ -6,13 +6,14 @@ $(function(){
 
         function(){
 
-            $('#text1').fadeIn();
+            $('#text1').html('クリックすると数学1Aのページに移動')
+            $('#text1').css('opacity','1');
 
         },
 
         function(){
 
-            $('#text1').fadeOut();
+            $('#text1').css('opacity','0');
 
         });
     
@@ -20,13 +21,14 @@ $(function(){
 
         function(){
 
-            $('#text2').fadeIn();
+            $('#text1').html('クリックすると数学2Bのページに移動');
+            $('#text1').css('opacity','1');
 
         },
 
         function(){
 
-            $('#text2').fadeOut();
+            $('#text1').css('opacity','0');
 
         }
     );
@@ -35,13 +37,13 @@ $(function(){
 
         function(){
 
-            $('#text3').fadeIn();
-
+            $('#text1').html('クリックすると数学3のページに移動');
+            $('#text1').css('opacity','1');
         },
 
         function(){
 
-            $('#text3').fadeOut();
+            $('#text1').css('opacity','0');
 
         }
 
